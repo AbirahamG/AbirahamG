@@ -1,11 +1,19 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0969DA,100:00C2FF&height=200&section=header&text=ABIRAHAM%20G&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=APP%20DEVELOPER%20%7C%20CSE%20STUDENT&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071B33,50:0969DA,100:00D9FF&height=220&section=header&text=ABIRAHAM%20G&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=ANDROID%20APP%20DEVELOPER%20%7C%20CSE%20STUDENT&descAlignY=57&descSize=17" width="100%" alt="Animated blue header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Android+Application+Development;Building+Useful+Applications;Learning+%7C+Building+%7C+Improving;Turning+Ideas+Into+Reality" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&height=60&lines=Aspiring+Android+App+Developer;Computer+Science+Engineering+Student;Building+Ideas+Into+Applications;Learning+Something+New+Every+Day" alt="Animated typing text"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abirahamg04032006/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abiraham.g2006@gmail.com)
+<p>
+<a href="https://dharanisrinivasan2005.github.io/abiraham-protfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/abirahamg04032006/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/abiraham.g"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="mailto:abiraham.g2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<img src="https://img.shields.io/badge/Focus-Android_Development-0969DA?style=flat-square&logo=android&logoColor=white" alt="Android Development"/>
+<img src="https://img.shields.io/badge/Graduation-2027-007ACC?style=flat-square" alt="Graduation 2027"/>
+<img src="https://img.shields.io/badge/Always-Learning-00D9FF?style=flat-square" alt="Always Learning"/>
 
 </div>
 
@@ -13,27 +21,33 @@
 
 ## 👋 About Me
 
-Hello! I'm **Abiraham G**, a Computer Science and Engineering student at **SSM College of Engineering, Namakkal**, affiliated with Anna University.
+Hey there! I'm **Abiraham G**, a Computer Science and Engineering student passionate about Android application development and software engineering.
 
-I'm passionate about **Android application development and software development**. I enjoy exploring new technologies, developing practical applications, and improving my programming skills through hands-on projects.
+I enjoy exploring new technologies, experimenting with AI-assisted development tools, and turning ideas into practical applications. I'm continuously improving my programming skills by learning, building, and experimenting with projects.
 
-- 🎓 Pursuing B.E. Computer Science and Engineering
-- 📅 Expected Graduation: 2027
-- 📱 Interested in Android Application Development
-- 🔐 Exploring face recognition and secure digital payment applications
-- 💻 Familiar with C, C++, Python basics, and HTML
-- 🛠️ Tools: Git, GitHub, ChatGPT, Claude, Cursor, and Antigravity
-- 🤝 Interested in collaborative projects and learning opportunities
+- 📱 Interested in Android application development.
+- 💻 Familiar with C, C++, Python basics, and HTML.
+- 🔐 Developed a face recognition-based digital payment application.
+- ♟️ Built an Android chess application.
+- 🤖 Exploring AI-assisted development workflows.
+- 🌱 Focused on continuous learning and practical problem-solving.
 
-**My goal:** To build useful, secure, and user-friendly applications while continuously improving my technical skills.
+**My goal:** To develop useful, secure, and user-friendly applications while growing as a software developer.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,git,github,androidstudio,vscode&theme=dark" alt="Technical Skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,git,github,android&theme=dark" alt="Programming and development tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+<img src="https://img.shields.io/badge/Cursor-1A1A1A?style=for-the-badge&logoColor=white" alt="Cursor"/>
+<img src="https://img.shields.io/badge/Antigravity-0969DA?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
 
 </div>
 
@@ -41,103 +55,95 @@ I'm passionate about **Android application development and software development*
 |---|---|
 | Programming Languages | C, C++ |
 | Programming Basics | Python |
-| Web Technologies | HTML |
-| App Development | Android Application Development |
+| Web Technology | HTML |
+| Application Development | Android application development |
 | Version Control | Git, GitHub |
-| AI Development Tools | ChatGPT, Claude, Cursor, Antigravity |
+| AI-assisted Tools | ChatGPT, Claude, Cursor, Antigravity |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 1. Online Payment and Transaction through Face Pay
+### 🔐 Online Payment and Transaction Through Face Pay
 
-A face recognition-based digital payment application designed to verify users before processing transactions.
+A face recognition-based digital payment application designed to authenticate users before processing transactions.
 
-**Key Features**
-- Facial authentication for user verification.
-- Focus on secure digital transactions.
-- Designed to improve transaction security and user convenience.
-- Explores the use of face recognition in digital payment workflows.
+**Key Highlights**
+- Implements facial authentication for user verification.
+- Focuses on improving digital transaction security.
+- Aims to make payment workflows more convenient for users.
 
-**Technologies / Concepts:** Face Recognition, Authentication, Digital Payments, Application Development.
+**Core Concepts:** Face Recognition · Authentication · Digital Payments
 
-### ♟️ 2. Chess App using Anti-Gravity for Android
+### ♟️ Chess App Using Anti-Gravity for Android
 
-An Android chess application built around an Anti-Gravity gameplay concept, featuring core chess logic and interactive game controls.
+An Android chess application featuring core chess logic and interactive gameplay based on an Anti-Gravity concept.
 
-**Key Features**
-- Core chess gameplay logic.
-- Interactive game controls.
-- Simple and user-friendly interface for Android devices.
-- Focus on gameplay and application usability.
+**Key Highlights**
+- Implements core chess gameplay logic.
+- Includes interactive game controls.
+- Focuses on a simple, user-friendly mobile interface.
 
-**Technologies / Concepts:** Android Development, Game Logic, Interactive UI, Problem-Solving.
+**Core Concepts:** Android Development · Game Logic · Interactive UI
+
+<div align="center">
+
+<a href="https://dharanisrinivasan2005.github.io/abiraham-protfolio/">
+<img src="https://img.shields.io/badge/Explore_My_Portfolio-Visit_Now-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio"/>
+</a>
+
+</div>
 
 ---
 
 ## 🏆 Certifications
 
-- 🥇 Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate — Oracle University
-- 📘 Customer Engagement: Communication and Personality Dynamics — IBM SkillsBuild
-- 📊 Data Analytics MasterClass (30 Days) — NoviTech R&D Private Limited
-- 💻 C++ Programming for College Students — Udemy
+- 🥇 **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** — Oracle University
+- 📘 **Customer Engagement: Communication and Personality Dynamics** — IBM SkillsBuild
+- 📊 **Data Analytics MasterClass (30 Days)** — NoviTech R&D Private Limited
+- 💻 **C++ Programming for College Students** — Udemy
 
 ---
 
-## 📊 GitHub Statistics
+## 🎓 Education
 
-**Important:** Replace `YOUR_GITHUB_USERNAME` in the image URLs below with your actual GitHub username.
+**Bachelor of Engineering (B.E.) — Computer Science and Engineering**
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=0969DA&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=00C2FF&fire=0969DA&currStreakLabel=00C2FF&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub Contribution Streak" />
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=0969DA&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
+SSM College of Engineering, Namakkal  
+Affiliated with Anna University  
+📅 Expected Graduation: 2027
 
 ---
 
-## 🎯 Current Goals
-
-- 📱 Improve Android application development skills.
-- 💡 Strengthen programming fundamentals and problem-solving.
-- 🚀 Build more practical software projects.
-- 🔧 Learn better coding and debugging practices.
-- 🌐 Maintain projects and collaborate using GitHub.
-- 📚 Keep learning emerging technologies and development tools.
-
----
-
-## 📫 Connect With Me
+## 📊 GitHub Analytics
 
 <div align="center">
 
-📧 **Email:** [abiraham.g2006@gmail.com](mailto:abiraham.g2006@gmail.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=0969DA&text_color=FFFFFF&rank_icon=github" alt="GitHub statistics"/>
 
-💼 **LinkedIn:** [Connect with Abiraham G](https://www.linkedin.com/in/abirahamg04032006/)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most-used programming languages"/>
 
-📍 **College:** SSM College of Engineering, Namakkal
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0D1117&ring=00D9FF&fire=0969DA&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-### 💙 Thanks for visiting my GitHub profile!
+<a href="https://dharanisrinivasan2005.github.io/abiraham-protfolio/">Portfolio</a> •
+<a href="https://www.linkedin.com/in/abirahamg04032006/">LinkedIn</a> •
+<a href="https://www.instagram.com/abiraham.g">Instagram</a> •
+<a href="mailto:abiraham.g2006@gmail.com">Email</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0969DA,100:0B1F3A&height=110&section=footer" width="100%" />
+<br/><br/>
 
-**Keep Learning • Keep Building • Keep Improving**
+*✨ Learn continuously. Build consistently. Improve every day. ✨*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0969DA,100:071B33&height=120&section=footer" width="100%" alt="Animated blue footer"/>
 
 </div>
